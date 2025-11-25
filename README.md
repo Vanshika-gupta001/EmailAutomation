@@ -39,8 +39,8 @@ python Sender.py**
 
 > Sample execution of the Email Automation Tool in terminal
 
-![Screenshot](images/capture1.jpg)
-![Screenshot](images/capture2.jpg)
+![Screenshot](images/Capture1.jpg)
+![Screenshot](images/Capture2.jpg)
 
 ---
 # 🧠 Tech Used
