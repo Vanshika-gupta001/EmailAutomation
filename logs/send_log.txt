@@ -1,0 +1,48 @@
+[2025-11-24 16:59:36] START send by vanshi@gmail.com to 3 recipients; subject=Request internship program in axcentra
+[2025-11-24 16:59:39] AUTH_FAILED
+[2025-11-24 17:01:55] START send by rahul.sharma@example.com to 3 recipients; subject=Request internship program in axcentra
+[2025-11-24 17:01:58] AUTH_FAILED
+[2025-11-24 17:04:39] PREVIEW → Rahul Sharma <rahul.sharma@example.com> (Subject: Request internship program in axcentra)
+[2025-11-24 17:04:39] PREVIEW → Sneha Verma <sneha.verma@example.com> (Subject: Request internship program in axcentra)
+[2025-11-24 17:04:40] PREVIEW → Aman Gupta <aman.gupta@example.com> (Subject: Request internship program in axcentra)
+[2025-11-24 17:05:37] PREVIEW → Rahul Sharma <rahul.sharma@example.com> (Subject: Acceptance the data science intern...)
+[2025-11-24 17:05:37] PREVIEW → Sneha Verma <sneha.verma@example.com> (Subject: Acceptance the data science intern...)
+[2025-11-24 17:05:38] PREVIEW → Aman Gupta <aman.gupta@example.com> (Subject: Acceptance the data science intern...)
+[2025-11-24 17:06:26] PREVIEW → Rahul Sharma <rahul.sharma@example.com> (Subject: Email Automation Tool - DRY RUN MODE (No real emails sent))
+[2025-11-24 17:06:26] PREVIEW → Sneha Verma <sneha.verma@example.com> (Subject: Email Automation Tool - DRY RUN MODE (No real emails sent))
+[2025-11-24 17:06:27] PREVIEW → Aman Gupta <aman.gupta@example.com> (Subject: Email Automation Tool - DRY RUN MODE (No real emails sent))
+[2025-11-24 17:22:44] START send by Anay@gmail.com to 3 recipients; subject=Acceptance
+[2025-11-24 17:22:47] END send: sent=3 failed=0
+[2025-11-25 13:43:38] START send by vanshi@gmail.com to 3 recipients; subject=requesting internship
+[2025-11-25 13:43:43] AUTH_FAILED
+[2025-11-25 13:56:25] START send by vanshikagupta.dev@gmail.com to 3 recipients; subject=Application for Internship Opportunity at Axcentra
+[2025-11-25 13:56:30] SENT: rahul.sharma@example.com by vanshikagupta.dev@gmail.com
+[2025-11-25 13:56:34] SENT: sneha.verma@example.com by vanshikagupta.dev@gmail.com
+[2025-11-25 13:56:37] SENT: aman.gupta@example.com by vanshikagupta.dev@gmail.com
+[2025-11-25 13:56:38] END send: sent=3 failed=0
+[2025-11-25 14:00:52] START send by vanshikagupta.dev@gmail.com to 3 recipients; subject=Seeking Internship Position at Axcentra
+[2025-11-25 14:00:57] SENT: rahul.sharma@example.com by vanshikagupta.dev@gmail.com
+[2025-11-25 14:01:00] SENT: sneha.verma@example.com by vanshikagupta.dev@gmail.com
+[2025-11-25 14:01:03] SENT: aman.gupta@example.com by vanshikagupta.dev@gmail.com
+[2025-11-25 14:01:05] END send: sent=3 failed=0
+[2025-11-25 14:02:43] START send by vanshikagupta.dev@gmail.com to 3 recipients; subject=Seeking Internship Position at Axcentra
+[2025-11-25 14:02:49] SENT: rahul.sharma@example.com by vanshikagupta.dev@gmail.com
+[2025-11-25 14:02:52] SENT: sneha.verma@example.com by vanshikagupta.dev@gmail.com
+[2025-11-25 14:08:15] START send by vanshikagupta.dev@gmail.com to 3 recipients; subject=Seeking Internship Position at Axcentra
+[2025-11-25 14:08:21] SENT: rahul.sharma@example.com by vanshikagupta.dev@gmail.com
+[2025-11-25 14:08:24] SENT: sneha.verma@example.com by vanshikagupta.dev@gmail.com
+[2025-11-25 14:08:28] SENT: aman.gupta@example.com by vanshikagupta.dev@gmail.com
+[2025-11-25 14:08:29] END send: sent=3 failed=0
+[2025-11-25 14:11:31] START send by vanshikagupta.dev@gmail.com to 3 recipients; subject=Seeking Internship Position at Axcentra
+[2025-11-25 14:11:37] SENT: rahul.sharma@example.com by vanshikagupta.dev@gmail.com
+[2025-11-25 14:11:40] SENT: sneha.verma@example.com by vanshikagupta.dev@gmail.com
+[2025-11-25 14:11:44] SENT: aman.gupta@example.com by vanshikagupta.dev@gmail.com
+[2025-11-25 14:11:45] END send: sent=3 failed=0
+[2025-11-25 14:17:51] START send by vanshikagupta.dev@gmail.com to 3 recipients; subject=Seeking Internship Position at Axcentra
+[2025-11-25 14:18:11] SENT: rahul.sharma@example.com
+[2025-11-25 14:18:26] SENT: sneha.verma@example.com
+[2025-11-25 14:18:34] SENT: aman.gupta@example.com
+[2025-11-25 14:24:10] START send by vanshikagupta.dev@gmail.com to 3 recipients; subject=Seeking Internship Position at Axcentra
+[2025-11-25 14:24:18] SENT: rahul.sharma@example.com
+[2025-11-25 14:24:23] SENT: sneha.verma@example.com
+[2025-11-25 14:24:28] SENT: aman.gupta@example.com
